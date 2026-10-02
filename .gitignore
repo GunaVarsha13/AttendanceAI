@@ -1,0 +1,10 @@
+# Real attendance data
+data/*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
